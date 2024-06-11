@@ -1,1 +1,2 @@
-# Case-Study-Domain-Related
+# Domain-Oriented-Case-Study_Upgrad
+Domain Oriented Case Study
